@@ -1,0 +1,29 @@
+{
+  "name": "eleven01-dapp1",
+  "version": "0.0.1",
+  "description": "Eleven01 blockchain dapp using truffle metamask ejs nodejs solc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Eleven01",
+    "Blockchain",
+    "Nodejs",
+    "Web3",
+    "metamask",
+    "truffle"
+  ],
+  "author": "Meegada Mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "abi-decoder": "^1.2.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.4",
+    "solc": "^0.4.24",
+    "truffle-hdwallet-provider": "^1.0.2",
+    "web3": "^1.0.0-beta.37"
+  }
+}
